@@ -1,11 +1,11 @@
-# ArN-Ld Homebrew Tap
+# ArN-LaB Homebrew Tap
 
-Homebrew tap for macOS apps by [ArN-Ld](https://github.com/ArN-Ld).
+Homebrew tap for macOS apps by [ArN-LaB](https://github.com/ArN-LaB).
 
 ## Install
 
 ```bash
-brew tap ArN-Ld/tap
+brew tap ArN-LaB/tap
 ```
 
 ## Apps
@@ -20,7 +20,7 @@ brew install --cask zenith
 
 Requires [Mullvad VPN](https://mullvad.net) installed and logged in.
 
-Source: [github.com/ArN-Ld/Zenith](https://github.com/ArN-Ld/Zenith)
+Source: [github.com/ArN-LaB/Zenith](https://github.com/ArN-LaB/Zenith)
 
 ---
 
