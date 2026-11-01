@@ -13,8 +13,8 @@ version/SHA-256 du moteur et commits exacts des dépendances sources.
 Le lanceur vérifie les octets avant exécution et garde son entrée Terminal pour les
 confirmations. Il ne télécharge aucun code automatiquement.
 
-Référence prévue : **`local-installer-v0.1.1`**. Elle doit être publiée avant les
-intégrations clientes ; elle n'est pas annoncée comme disponible pendant la revue.
+Référence immuable publiée : **`local-installer-v0.1.1`**. Les intégrations clientes
+contrôlent la version et le SHA-256 du moteur avant de l’exécuter.
 Une évolution impose une nouvelle version et une mise à jour explicite des épingles.
 
 Le moteur est cherché dans `../homebrew-tap/developer-tools/macos-local-installer`

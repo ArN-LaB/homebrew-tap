@@ -1,6 +1,6 @@
 # Historique du composant développeur
 
-## 0.1.1 — préparation, non publiée
+## 0.1.1 — 2026-11-01
 
 - Édition Zenith Local avec nom et identifiant distincts du cask ; garde-fou Homebrew
   à l'installation et à la restauration, sans désinscription ni modification du cask.
