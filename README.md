@@ -2,6 +2,10 @@
 
 Homebrew tap for macOS apps by [ArN-LaB](https://github.com/ArN-LaB).
 
+For **personal source builds**, see the [shared macOS local installer](developer-tools/macos-local-installer/README.md).
+This developer-only component is versioned separately from casks. It is not included
+in public apps, does not disable Gatekeeper and does not alter the cask below.
+
 ## Install
 
 ```bash
